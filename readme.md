@@ -10,7 +10,7 @@ Fecha Inicio: 16-04-2021
 Fecha Fin:    15-05-2021
 ```
 
-## Metas 🚀
+## Metas 🔥
 ```
 👩🏻‍💼  5 Skills
 ```
@@ -19,13 +19,14 @@ Fecha Fin:    15-05-2021
 
 | SKILLS / LINK                                   | # MODULOS | % EXAMEN |
 |--------------------------------------------|-----------|----------|
-| [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)  | 2         |          |
-| [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)                  | 2         | 20-25% |
-| [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)                    | 3         | 25-30% |
-| [Visualize data in Power BI ](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)              | 4         | 20-25% |
-| [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)                  | 2         | 10-15% |
-| [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/) | 3         | 10-15% |
+| Get started with Microsoft data analytics ([Course](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/) / [Summary]())  |2         |          |
+| Prepare data for analysis ([Course](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)  / [Summary]())                  | 2         | 20-25% |
+| Model data in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)  / [Summary]())                    | 3         | 25-30% |
+| Visualize data in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)  / [Summary]())              | 4         | 20-25% |
+| Data analysis in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)  / [Summary]())                  | 2         | 10-15% |
+| Manage workspaces and datasets in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)  / [Summary]()) | 3         | 10-15% |
 
+<br>
 
 ## 🔗 Link de interes
 - Cronograma de estudio - Excel
