@@ -19,7 +19,7 @@ Fecha Fin:    15-05-2021
 
 | SKILLS / LINK                                   | # MODULOS | % EXAMEN |
 |--------------------------------------------|-----------|----------|
-| Get started with Microsoft data analytics ([Course](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/) / [Summary]())  |2         |          |
+| Get started with Microsoft data analytics ([Course](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/) / [Summary](https://github.com/MayumyCH/exam-da-100-analyzing-data-with-microsoft-power-bi/tree/main/summary/M0_Get%20started%20with%20Microsoft%20data%20analytics))  |2         |          |
 | Prepare data for analysis ([Course](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)  / [Summary]())                  | 2         | 20-25% |
 | Model data in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)  / [Summary]())                    | 3         | 25-30% |
 | Visualize data in Power BI ([Course](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)  / [Summary]())              | 4         | 20-25% |

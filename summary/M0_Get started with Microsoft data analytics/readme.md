@@ -15,5 +15,5 @@ Fecha Fin:    22-04-2021
 
 ## Detalle modulo 🚀
 
-- Discover data analysis ([Summary]())
-- Get started building with Power BI ([Summary]())
+- Discover data analysis ([Summary](https://github.com/MayumyCH/exam-da-100-analyzing-data-with-microsoft-power-bi/blob/main/summary/M0_Get%20started%20with%20Microsoft%20data%20analytics/M0_1_Discover%20data%20analysis.md))
+- Get started building with Power BI ([Summary](https://github.com/MayumyCH/exam-da-100-analyzing-data-with-microsoft-power-bi/blob/main/summary/M0_Get%20started%20with%20Microsoft%20data%20analytics/M0_2_Get%20started%20building%20with%20Power%20BI.md))
